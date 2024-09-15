@@ -1,0 +1,11 @@
+# Ignore build or production directories
+node_modules
+build
+out
+
+# Ignore configuration files
+*.config.js
+
+# Ignore specific directories
+public/
+coverage/
